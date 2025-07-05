@@ -1,6 +1,6 @@
 {
   "Author": "NostraThomas",
-  "Name": "Buy Helper",
+  "Name": "BuyHard",
   "InternalName": "BuyHelper",
   "RepoUrl": "",
   "Description": "Helps you buy items in bulk",
@@ -8,8 +8,13 @@
   "DalamudApiLevel": 12,
   "TestingDalamudApiLevel": 12,
   "Tags": [
+    "market",
+    "purchase",
+    "vendor",
+    "item"
   ],
   "CategoryTags": [
+    "utility"
   ],
   "IsTestingExclusive": false,
   "IconUrl": "",
