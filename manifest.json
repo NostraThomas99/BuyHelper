@@ -1,0 +1,23 @@
+{
+  "Author": "NostraThomas",
+  "Name": "BuyHard",
+  "InternalName": "BuyHelper",
+  "RepoUrl": "",
+  "Description": "Helps you buy items in bulk",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 12,
+  "TestingDalamudApiLevel": 12,
+  "Tags": [
+    "market",
+    "purchase",
+    "vendor",
+    "item"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "IsTestingExclusive": false,
+  "IconUrl": "",
+  "Punchline": "It ain't no lie, baby: buy, buy, buy...",
+  "AcceptsFeedback": true
+}
