@@ -2,6 +2,13 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyHelper", "BuyHelper\BuyHelper.csproj", "{6ABAC91D-81AC-4F94-9476-394A779712E5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D265ABE6-9D99-4AC2-BBE9-9DE7E51A5F3A}"
+	ProjectSection(SolutionItems) = preProject
+		manifest.json = manifest.json
+		logo.png = logo.png
+		.github\workflows\publish.yaml = .github\workflows\publish.yaml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
